@@ -1,0 +1,44 @@
+{
+  "assetsByChunkName": {
+    "path---my-crypto-world": [
+      "path---my-crypto-world-4109acffa84156073b6d.js",
+      "path---my-crypto-world-4109acffa84156073b6d.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-d59fdcebd0a0ed4a313a.js",
+      "component---src-pages-index-js-d59fdcebd0a0ed4a313a.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "component---src-templates-blog-post-js": [
+      "component---src-templates-blog-post-js-fe7d11517dc5be94b807.js",
+      "component---src-templates-blog-post-js-fe7d11517dc5be94b807.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-4623d7b82e76a31c24bb.js",
+      "component---src-layouts-index-js-4623d7b82e76a31c24bb.js.map"
+    ],
+    "path---hi-folks": [
+      "path---hi-folks-d96ce76af4cbb0a29cb8.js",
+      "path---hi-folks-d96ce76af4cbb0a29cb8.js.map"
+    ],
+    "path---bigears": [
+      "path---bigears-6bab5343236a2769691e.js",
+      "path---bigears-6bab5343236a2769691e.js.map"
+    ],
+    "path---index": [
+      "path---index-98f5cfb91202c98f18b0.js",
+      "path---index-98f5cfb91202c98f18b0.js.map"
+    ],
+    "commons": [
+      "commons-39da203017f54a470b77.js",
+      "commons-39da203017f54a470b77.js.map"
+    ],
+    "app": [
+      "app-57e3bc19a8ed3d25b507.js",
+      "app-57e3bc19a8ed3d25b507.js.map"
+    ]
+  }
+}
